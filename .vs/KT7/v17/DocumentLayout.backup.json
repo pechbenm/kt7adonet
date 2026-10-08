@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0\\source\\repos\\KT7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|c:\\users\\0\\source\\repos\\kt7\\kt7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDCCF2D6-DBB2-41CE-93AA-BCBC0F458151}|KT7\\KT7.csproj|solutionrelative:kt7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Dtos\\Dtos.cs",
+              "RelativeDocumentMoniker": "KT7\\Dtos\\Dtos.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Dtos\\Dtos.cs",
+              "RelativeToolTip": "KT7\\Dtos\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:54:20.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Models\\Entities.cs",
+              "RelativeDocumentMoniker": "KT7\\Models\\Entities.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Models\\Entities.cs",
+              "RelativeToolTip": "KT7\\Models\\Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:53:43.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Program.cs",
+              "RelativeDocumentMoniker": "KT7\\Program.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Program.cs",
+              "RelativeToolTip": "KT7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:52:28.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\appsettings.json",
+              "RelativeDocumentMoniker": "KT7\\appsettings.json",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\appsettings.json",
+              "RelativeToolTip": "KT7\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-07T21:50:21.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KT7\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "KT7\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:19:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "KT7\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "KT7\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:18:20.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourcesController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\ResourcesController.cs",
+              "RelativeDocumentMoniker": "KT7\\Controllers\\ResourcesController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\ResourcesController.cs",
+              "RelativeToolTip": "KT7\\Controllers\\ResourcesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:18:03.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "KT7\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "KT7\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:17:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "KT7\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\0\\source\\repos\\KT7\\KT7\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "KT7\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:17:23.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
